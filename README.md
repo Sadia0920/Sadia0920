@@ -1,3 +1,4 @@
+![logo](https://github.com/Sadia0920/Sadia0920/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sadia Afrin</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="coding" width="200" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif"/>
