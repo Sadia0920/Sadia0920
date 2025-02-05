@@ -1,6 +1,6 @@
 ![logo](https://github.com/Sadia0920/Sadia0920/blob/main/Github%20Web%20Developer%20%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sadia Afrin</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
 <img align="right" alt="coding" width="200" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadia0920&label=Profile%20views&color=0e75b6&style=flat" alt="sadia0920" /> </p>
