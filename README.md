@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sadiaafrin0920@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/112deS8fOfTG_nJUwiaycLSk-Zk5K92xj/view?usp=drive_link](https://drive.google.com/file/d/112deS8fOfTG_nJUwiaycLSk-Zk5K92xj/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/112deS8fOfTG_nJUwiaycLSk-Zk5K92xj/view?usp=drive_link](https://drive.google.com/file/d/1Q7BEY_svV17TPwKyUgV6-IE6koHXX5oq/view?usp=sharing)
 
 - ⚡ Fun fact **Big Fan of the ⚡ emoji**
 
